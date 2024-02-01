@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">👨🏻‍✈️ ENTJ Personality type<br>🐍 Python, Django ...<br>📚 I'm currently learning ...</p>
+<p align="left">🦅 ENTJ Personality type<br>🐍 Python, Django ...<br>📚 I'm currently learning ...</p>
 
 ###
 
